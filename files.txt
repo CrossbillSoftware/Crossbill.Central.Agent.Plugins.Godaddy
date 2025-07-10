@@ -1,0 +1,3 @@
+bin\@{env}\Crossbill.Central.Agent.Plugins.Godaddy.dll => plugins\Crossbill.Central.Agent.Plugins.Godaddy\Crossbill.Central.Agent.Plugins.Godaddy.dll
+bin\@{env}\Crossbill.Central.Agent.Plugins.Godaddy.deps.json => plugins\Crossbill.Central.Agent.Plugins.Godaddy\Crossbill.Central.Agent.Plugins.Godaddy.deps.json
+plugins => plugins
